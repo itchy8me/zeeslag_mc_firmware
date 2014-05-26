@@ -87,12 +87,11 @@ FLASHER_FLAGS=
 #==============================================================================
 
 # Project name (W/O .c extension eg. "main")
-PROJECT_NAME = main
+PROJECT_NAME = powerSysController
 # Startup file name (W/O .c extension eg. "LM4F_startup")
-STARTUP_FILE = LM4F_startup
+STARTUP_FILE = startup_gcc
 # Linker file name
-#personally mangled it to point ot stellarisware path
-LINKER_FILE = ${STELLARISWARE_PATH}/LM4F.ld
+LINKER_FILE = powerSysController.ld
 
 SRC = $(wildcard *.c)
 OBJS = $(SRC:.c=.o)

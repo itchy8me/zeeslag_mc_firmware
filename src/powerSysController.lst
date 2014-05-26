@@ -1,0 +1,390 @@
+
+powerSysController.axf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+00000000 <_text>:
+   0:	20000100 	.word	0x20000100
+   4:	00000361 	.word	0x00000361
+   8:	000003d9 	.word	0x000003d9
+   c:	000003e1 	.word	0x000003e1
+  10:	000003e9 	.word	0x000003e9
+  14:	000003e9 	.word	0x000003e9
+  18:	000003e9 	.word	0x000003e9
+	...
+  2c:	000003e9 	.word	0x000003e9
+  30:	000003e9 	.word	0x000003e9
+  34:	00000000 	.word	0x00000000
+  38:	000003e9 	.word	0x000003e9
+  3c:	000003e9 	.word	0x000003e9
+  40:	000003e9 	.word	0x000003e9
+  44:	000003e9 	.word	0x000003e9
+  48:	000003e9 	.word	0x000003e9
+  4c:	000003e9 	.word	0x000003e9
+  50:	000003e9 	.word	0x000003e9
+  54:	000003e9 	.word	0x000003e9
+  58:	000003e9 	.word	0x000003e9
+  5c:	000003e9 	.word	0x000003e9
+  60:	000003e9 	.word	0x000003e9
+  64:	000003e9 	.word	0x000003e9
+  68:	000003e9 	.word	0x000003e9
+  6c:	000003e9 	.word	0x000003e9
+  70:	000003e9 	.word	0x000003e9
+  74:	000003e9 	.word	0x000003e9
+  78:	000003e9 	.word	0x000003e9
+  7c:	000003e9 	.word	0x000003e9
+  80:	000003e9 	.word	0x000003e9
+  84:	000003e9 	.word	0x000003e9
+  88:	000003e9 	.word	0x000003e9
+  8c:	000003e9 	.word	0x000003e9
+  90:	000003e9 	.word	0x000003e9
+  94:	000003e9 	.word	0x000003e9
+  98:	000003e9 	.word	0x000003e9
+  9c:	000003e9 	.word	0x000003e9
+  a0:	000003e9 	.word	0x000003e9
+  a4:	000003e9 	.word	0x000003e9
+  a8:	000003e9 	.word	0x000003e9
+  ac:	000003e9 	.word	0x000003e9
+  b0:	000003e9 	.word	0x000003e9
+  b4:	000003e9 	.word	0x000003e9
+  b8:	000003e9 	.word	0x000003e9
+  bc:	000003e9 	.word	0x000003e9
+  c0:	000003e9 	.word	0x000003e9
+  c4:	000003e9 	.word	0x000003e9
+  c8:	000003e9 	.word	0x000003e9
+  cc:	000003e9 	.word	0x000003e9
+  d0:	000003e9 	.word	0x000003e9
+  d4:	000003e9 	.word	0x000003e9
+  d8:	000003e9 	.word	0x000003e9
+  dc:	000003e9 	.word	0x000003e9
+  e0:	000003e9 	.word	0x000003e9
+  e4:	000003e9 	.word	0x000003e9
+  e8:	000003e9 	.word	0x000003e9
+  ec:	000003e9 	.word	0x000003e9
+  f0:	000003e9 	.word	0x000003e9
+  f4:	000003e9 	.word	0x000003e9
+  f8:	000003e9 	.word	0x000003e9
+  fc:	000003e9 	.word	0x000003e9
+ 100:	000003e9 	.word	0x000003e9
+ 104:	000003e9 	.word	0x000003e9
+ 108:	000003e9 	.word	0x000003e9
+ 10c:	000003e9 	.word	0x000003e9
+ 110:	000003e9 	.word	0x000003e9
+ 114:	000003e9 	.word	0x000003e9
+ 118:	000003e9 	.word	0x000003e9
+ 11c:	000003e9 	.word	0x000003e9
+ 120:	000003e9 	.word	0x000003e9
+ 124:	000003e9 	.word	0x000003e9
+ 128:	000003e9 	.word	0x000003e9
+ 12c:	000003e9 	.word	0x000003e9
+ 130:	000003e9 	.word	0x000003e9
+ 134:	000003e9 	.word	0x000003e9
+ 138:	000003e9 	.word	0x000003e9
+ 13c:	000003e9 	.word	0x000003e9
+	...
+ 150:	000003e9 	.word	0x000003e9
+ 154:	000003e9 	.word	0x000003e9
+ 158:	000003e9 	.word	0x000003e9
+ 15c:	000003e9 	.word	0x000003e9
+	...
+ 1b0:	000003e9 	.word	0x000003e9
+ 1b4:	000003e9 	.word	0x000003e9
+ 1b8:	000003e9 	.word	0x000003e9
+ 1bc:	000003e9 	.word	0x000003e9
+ 1c0:	000003e9 	.word	0x000003e9
+ 1c4:	000003e9 	.word	0x000003e9
+ 1c8:	000003e9 	.word	0x000003e9
+ 1cc:	000003e9 	.word	0x000003e9
+ 1d0:	000003e9 	.word	0x000003e9
+ 1d4:	000003e9 	.word	0x000003e9
+ 1d8:	000003e9 	.word	0x000003e9
+ 1dc:	000003e9 	.word	0x000003e9
+ 1e0:	000003e9 	.word	0x000003e9
+ 1e4:	000003e9 	.word	0x000003e9
+ 1e8:	000003e9 	.word	0x000003e9
+ 1ec:	000003e9 	.word	0x000003e9
+ 1f0:	000003e9 	.word	0x000003e9
+ 1f4:	000003e9 	.word	0x000003e9
+ 1f8:	000003e9 	.word	0x000003e9
+ 1fc:	000003e9 	.word	0x000003e9
+ 200:	000003e9 	.word	0x000003e9
+ 204:	000003e9 	.word	0x000003e9
+ 208:	000003e9 	.word	0x000003e9
+ 20c:	00000000 	.word	0x00000000
+ 210:	000003e9 	.word	0x000003e9
+ 214:	000003e9 	.word	0x000003e9
+ 218:	000003e9 	.word	0x000003e9
+ 21c:	000003e9 	.word	0x000003e9
+ 220:	000003e9 	.word	0x000003e9
+ 224:	000003e9 	.word	0x000003e9
+ 228:	000003e9 	.word	0x000003e9
+ 22c:	000003e9 	.word	0x000003e9
+ 230:	000003e9 	.word	0x000003e9
+ 234:	000003e9 	.word	0x000003e9
+ 238:	000003e9 	.word	0x000003e9
+ 23c:	000003e9 	.word	0x000003e9
+ 240:	000003e9 	.word	0x000003e9
+ 244:	000003e9 	.word	0x000003e9
+ 248:	000003e9 	.word	0x000003e9
+ 24c:	000003e9 	.word	0x000003e9
+ 250:	000003e9 	.word	0x000003e9
+ 254:	000003e9 	.word	0x000003e9
+ 258:	000003e9 	.word	0x000003e9
+ 25c:	000003e9 	.word	0x000003e9
+ 260:	000003e9 	.word	0x000003e9
+ 264:	000003e9 	.word	0x000003e9
+ 268:	000003e9 	.word	0x000003e9
+
+0000026c <main>:
+/*
+ * powerSysController.c
+ */
+#include "../includes/system_init.h"
+
+int main(void) {
+ 26c:	b480      	push	{r7}
+ 26e:	b083      	sub	sp, #12
+ 270:	af00      	add	r7, sp, #0
+	CLOCK = 0x02400540;
+ 272:	f24e 0360 	movw	r3, #57440	; 0xe060
+ 276:	f2c4 030f 	movt	r3, #16399	; 0x400f
+ 27a:	f44f 62a8 	mov.w	r2, #1344	; 0x540
+ 27e:	f2c0 2240 	movt	r2, #576	; 0x240
+ 282:	601a      	str	r2, [r3, #0]
+
+	ENABLE_STROBE;
+ 284:	f24e 6308 	movw	r3, #58888	; 0xe608
+ 288:	f2c4 030f 	movt	r3, #16399	; 0x400f
+ 28c:	f24e 6208 	movw	r2, #58888	; 0xe608
+ 290:	f2c4 020f 	movt	r2, #16399	; 0x400f
+ 294:	6812      	ldr	r2, [r2, #0]
+ 296:	f042 0220 	orr.w	r2, r2, #32
+ 29a:	601a      	str	r2, [r3, #0]
+ 29c:	f44f 43a8 	mov.w	r3, #21504	; 0x5400
+ 2a0:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 2a4:	f44f 42a8 	mov.w	r2, #21504	; 0x5400
+ 2a8:	f2c4 0202 	movt	r2, #16386	; 0x4002
+ 2ac:	6812      	ldr	r2, [r2, #0]
+ 2ae:	f042 0202 	orr.w	r2, r2, #2
+ 2b2:	601a      	str	r2, [r3, #0]
+	ENABLE_STEPPINGMOTOR();
+ 2b4:	f24e 6308 	movw	r3, #58888	; 0xe608
+ 2b8:	f2c4 030f 	movt	r3, #16399	; 0x400f
+ 2bc:	f24e 6208 	movw	r2, #58888	; 0xe608
+ 2c0:	f2c4 020f 	movt	r2, #16399	; 0x400f
+ 2c4:	6812      	ldr	r2, [r2, #0]
+ 2c6:	f042 0204 	orr.w	r2, r2, #4
+ 2ca:	601a      	str	r2, [r3, #0]
+ 2cc:	f44f 43c8 	mov.w	r3, #25600	; 0x6400
+ 2d0:	f2c4 0300 	movt	r3, #16384	; 0x4000
+ 2d4:	f44f 42c8 	mov.w	r2, #25600	; 0x6400
+ 2d8:	f2c4 0200 	movt	r2, #16384	; 0x4000
+ 2dc:	6812      	ldr	r2, [r2, #0]
+ 2de:	f042 0210 	orr.w	r2, r2, #16
+ 2e2:	601a      	str	r2, [r3, #0]
+ 2e4:	f246 4320 	movw	r3, #25632	; 0x6420
+ 2e8:	f2c4 0300 	movt	r3, #16384	; 0x4000
+ 2ec:	f246 4220 	movw	r2, #25632	; 0x6420
+ 2f0:	f2c4 0200 	movt	r2, #16384	; 0x4000
+ 2f4:	6812      	ldr	r2, [r2, #0]
+ 2f6:	f042 0207 	orr.w	r2, r2, #7
+ 2fa:	601a      	str	r2, [r3, #0]
+ 2fc:	f44f 43c0 	mov.w	r3, #24576	; 0x6000
+ 300:	f2c4 0303 	movt	r3, #16387	; 0x4003
+ 304:	f44f 42c0 	mov.w	r2, #24576	; 0x6000
+ 308:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 30c:	6812      	ldr	r2, [r2, #0]
+ 30e:	f022 0201 	bic.w	r2, r2, #1
+ 312:	601a      	str	r2, [r3, #0]
+	//LED1_OUT |= 0x0A; //0x0E;
+	LED1_DEN |= 0x0A; //0x0E;
+ 314:	f245 531c 	movw	r3, #21788	; 0x551c
+ 318:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 31c:	f245 521c 	movw	r2, #21788	; 0x551c
+ 320:	f2c4 0202 	movt	r2, #16386	; 0x4002
+ 324:	6812      	ldr	r2, [r2, #0]
+ 326:	f042 020a 	orr.w	r2, r2, #10
+ 32a:	601a      	str	r2, [r3, #0]
+	//LED1OUTT = 0x00000002;
+	//LED1UNLOCK = 0x4C4F434B;
+	//LED1COMMIT = 0x00000002;
+
+	unsigned long i = 0;
+ 32c:	2300      	movs	r3, #0
+ 32e:	607b      	str	r3, [r7, #4]
+	unsigned long ulLoop = 0;
+ 330:	2300      	movs	r3, #0
+ 332:	603b      	str	r3, [r7, #0]
+	while(1){
+		LED1_ON = i++;
+ 334:	f245 33fc 	movw	r3, #21500	; 0x53fc
+ 338:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 33c:	687a      	ldr	r2, [r7, #4]
+ 33e:	1c51      	adds	r1, r2, #1
+ 340:	6079      	str	r1, [r7, #4]
+ 342:	601a      	str	r2, [r3, #0]
+		for(ulLoop = 0; ulLoop < 500000; ulLoop++);
+ 344:	2300      	movs	r3, #0
+ 346:	603b      	str	r3, [r7, #0]
+ 348:	e002      	b.n	350 <main+0xe4>
+ 34a:	683b      	ldr	r3, [r7, #0]
+ 34c:	3301      	adds	r3, #1
+ 34e:	603b      	str	r3, [r7, #0]
+ 350:	683a      	ldr	r2, [r7, #0]
+ 352:	f24a 131f 	movw	r3, #41247	; 0xa11f
+ 356:	f2c0 0307 	movt	r3, #7
+ 35a:	429a      	cmp	r2, r3
+ 35c:	d9f5      	bls.n	34a <main+0xde>
+	}
+ 35e:	e7e9      	b.n	334 <main+0xc8>
+
+00000360 <ResetISR>:
+// application.
+//
+//*****************************************************************************
+void
+ResetISR(void)
+{
+ 360:	b580      	push	{r7, lr}
+ 362:	b082      	sub	sp, #8
+ 364:	af00      	add	r7, sp, #0
+    unsigned long *pulSrc, *pulDest;
+
+    //
+    // Copy the data segment initializers from flash to SRAM.
+    //
+    pulSrc = &_etext;
+ 366:	f240 33f0 	movw	r3, #1008	; 0x3f0
+ 36a:	f2c0 0300 	movt	r3, #0
+ 36e:	607b      	str	r3, [r7, #4]
+    for(pulDest = &_data; pulDest < &_edata; )
+ 370:	f240 0300 	movw	r3, #0
+ 374:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 378:	603b      	str	r3, [r7, #0]
+ 37a:	e007      	b.n	38c <ResetISR+0x2c>
+    {
+        *pulDest++ = *pulSrc++;
+ 37c:	683b      	ldr	r3, [r7, #0]
+ 37e:	1d1a      	adds	r2, r3, #4
+ 380:	603a      	str	r2, [r7, #0]
+ 382:	687a      	ldr	r2, [r7, #4]
+ 384:	1d11      	adds	r1, r2, #4
+ 386:	6079      	str	r1, [r7, #4]
+ 388:	6812      	ldr	r2, [r2, #0]
+ 38a:	601a      	str	r2, [r3, #0]
+
+    //
+    // Copy the data segment initializers from flash to SRAM.
+    //
+    pulSrc = &_etext;
+    for(pulDest = &_data; pulDest < &_edata; )
+ 38c:	683a      	ldr	r2, [r7, #0]
+ 38e:	f240 0300 	movw	r3, #0
+ 392:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 396:	429a      	cmp	r2, r3
+ 398:	d3f0      	bcc.n	37c <ResetISR+0x1c>
+    }
+
+    //
+    // Zero fill the bss segment.
+    //
+    __asm("    ldr     r0, =_bss\n"
+ 39a:	480d      	ldr	r0, [pc, #52]	; (3d0 <zero_loop+0x2e>)
+ 39c:	490d      	ldr	r1, [pc, #52]	; (3d4 <zero_loop+0x32>)
+ 39e:	f04f 0200 	mov.w	r2, #0
+
+000003a2 <zero_loop>:
+ 3a2:	4288      	cmp	r0, r1
+ 3a4:	bfb8      	it	lt
+ 3a6:	f840 2b04 	strlt.w	r2, [r0], #4
+ 3aa:	dbfa      	blt.n	3a2 <zero_loop>
+    // APIs must be done here prior to the floating-point unit being enabled.
+    //
+    // Note that this does not use DriverLib since it might not be included in
+    // this project.
+    //
+    HWREG(NVIC_CPAC) = ((HWREG(NVIC_CPAC) &
+ 3ac:	f64e 5388 	movw	r3, #60808	; 0xed88
+ 3b0:	f2ce 0300 	movt	r3, #57344	; 0xe000
+ 3b4:	f64e 5288 	movw	r2, #60808	; 0xed88
+ 3b8:	f2ce 0200 	movt	r2, #57344	; 0xe000
+ 3bc:	6812      	ldr	r2, [r2, #0]
+                         ~(NVIC_CPAC_CP10_M | NVIC_CPAC_CP11_M)) |
+                        NVIC_CPAC_CP10_FULL | NVIC_CPAC_CP11_FULL);
+ 3be:	f442 0270 	orr.w	r2, r2, #15728640	; 0xf00000
+    // APIs must be done here prior to the floating-point unit being enabled.
+    //
+    // Note that this does not use DriverLib since it might not be included in
+    // this project.
+    //
+    HWREG(NVIC_CPAC) = ((HWREG(NVIC_CPAC) &
+ 3c2:	601a      	str	r2, [r3, #0]
+                        NVIC_CPAC_CP10_FULL | NVIC_CPAC_CP11_FULL);
+
+    //
+    // Call the application's entry point.
+    //
+    main();
+ 3c4:	f7ff ff52 	bl	26c <main>
+}
+ 3c8:	3708      	adds	r7, #8
+ 3ca:	46bd      	mov	sp, r7
+ 3cc:	bd80      	pop	{r7, pc}
+ 3ce:	0000      	.short	0x0000
+ 3d0:	20000000 	.word	0x20000000
+ 3d4:	20000100 	.word	0x20000100
+
+000003d8 <NmiSR>:
+// by a debugger.
+//
+//*****************************************************************************
+static void
+NmiSR(void)
+{
+ 3d8:	b480      	push	{r7}
+ 3da:	af00      	add	r7, sp, #0
+    //
+    // Enter an infinite loop.
+    //
+    while(1)
+    {
+    }
+ 3dc:	e7fe      	b.n	3dc <NmiSR+0x4>
+ 3de:	bf00      	nop
+
+000003e0 <FaultISR>:
+// for examination by a debugger.
+//
+//*****************************************************************************
+static void
+FaultISR(void)
+{
+ 3e0:	b480      	push	{r7}
+ 3e2:	af00      	add	r7, sp, #0
+    //
+    // Enter an infinite loop.
+    //
+    while(1)
+    {
+    }
+ 3e4:	e7fe      	b.n	3e4 <FaultISR+0x4>
+ 3e6:	bf00      	nop
+
+000003e8 <IntDefaultHandler>:
+// for examination by a debugger.
+//
+//*****************************************************************************
+static void
+IntDefaultHandler(void)
+{
+ 3e8:	b480      	push	{r7}
+ 3ea:	af00      	add	r7, sp, #0
+    //
+    // Go into an infinite loop.
+    //
+    while(1)
+    {
+    }
+ 3ec:	e7fe      	b.n	3ec <IntDefaultHandler+0x4>
+ 3ee:	bf00      	nop
