@@ -1,7 +1,8 @@
- 
+/*
+ *	system_init.c.h 
+ */
+
 #include "../includes/system_init.h"
 
-
-int system_init(){
-  ;}
+void system_init(void){;}
 

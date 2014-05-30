@@ -1,5 +1,9 @@
-#include "inc/lm4f120h5qr.h"
+/*
+ *	system_init.h 
+ */
+
 //#include "inc/hw_gpio.h"
+#include "inc/lm4f120h5qr.h"
 
 #define CLOCK_CFG (SYSCTL_RCC_R = 0x02400540)	// Set clock divider
 
@@ -15,14 +19,4 @@
 #define LED_CYAN (LED_B | LED_G & ~LED_R)
 #define LED_YELLOW (LED_R | LED_G & ~LED_B)
 #define LED_WHITE (LED_R | LED_B | LED_G)
-
-#define STROBE_ENABLE ((SYSCTL_RCGCGPIO_R = SYSCTL_RCGCGPIO_R5) & (GPIO_PORTF_DIR_R = LED_WHITE) & (GPIO_PORTF_DR2R_R = LED_WHITE) & (GPIO_PORTF_DEN_R = LED_WHITE) & (GPIO_PORTF_LOCK_R = GPIO_LOCK_KEY) & (GPIO_PORTF_CR_R = LED_WHITE))	//Enable port F1-F3 for strobe status
-#define STROBE(x) ((GPIO_PORTF_DATA_R ^= x))
-
-
-
-#define MOTORA 0x00000001
-#define MOTORB 0x00000002
-#define MOTORC 0x00000004
-#define MOTORD 0x00000008
-#define STEPPING_MOTOR_EN(x)
+#define LED_BLACK ~(LED_WHITE)
