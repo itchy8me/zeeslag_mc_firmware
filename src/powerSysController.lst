@@ -6,135 +6,135 @@ Disassembly of section .text:
 
 00000000 <_text>:
    0:	20000170 	.word	0x20000170
-   4:	00000461 	.word	0x00000461
-   8:	000004d9 	.word	0x000004d9
-   c:	000004e1 	.word	0x000004e1
-  10:	000004e9 	.word	0x000004e9
-  14:	000004e9 	.word	0x000004e9
-  18:	000004e9 	.word	0x000004e9
+   4:	00000501 	.word	0x00000501
+   8:	00000579 	.word	0x00000579
+   c:	00000581 	.word	0x00000581
+  10:	00000589 	.word	0x00000589
+  14:	00000589 	.word	0x00000589
+  18:	00000589 	.word	0x00000589
 	...
-  2c:	000004e9 	.word	0x000004e9
-  30:	000004e9 	.word	0x000004e9
+  2c:	00000589 	.word	0x00000589
+  30:	00000589 	.word	0x00000589
   34:	00000000 	.word	0x00000000
-  38:	000004e9 	.word	0x000004e9
-  3c:	000004e9 	.word	0x000004e9
-  40:	000004e9 	.word	0x000004e9
-  44:	000004e9 	.word	0x000004e9
-  48:	000004e9 	.word	0x000004e9
-  4c:	000004e9 	.word	0x000004e9
-  50:	000004e9 	.word	0x000004e9
-  54:	000004e9 	.word	0x000004e9
-  58:	000004e9 	.word	0x000004e9
-  5c:	000004e9 	.word	0x000004e9
-  60:	000004e9 	.word	0x000004e9
-  64:	000004e9 	.word	0x000004e9
-  68:	000004e9 	.word	0x000004e9
-  6c:	000004e9 	.word	0x000004e9
-  70:	000004e9 	.word	0x000004e9
-  74:	000004e9 	.word	0x000004e9
-  78:	000004e9 	.word	0x000004e9
-  7c:	000004e9 	.word	0x000004e9
-  80:	000004e9 	.word	0x000004e9
-  84:	000004e9 	.word	0x000004e9
-  88:	000004e9 	.word	0x000004e9
-  8c:	000004e9 	.word	0x000004e9
-  90:	000004e9 	.word	0x000004e9
-  94:	000004e9 	.word	0x000004e9
-  98:	000004e9 	.word	0x000004e9
-  9c:	000004e9 	.word	0x000004e9
-  a0:	000004e9 	.word	0x000004e9
-  a4:	000004e9 	.word	0x000004e9
-  a8:	000004e9 	.word	0x000004e9
-  ac:	000004e9 	.word	0x000004e9
-  b0:	000004e9 	.word	0x000004e9
-  b4:	000004e9 	.word	0x000004e9
-  b8:	000004e9 	.word	0x000004e9
-  bc:	000004e9 	.word	0x000004e9
-  c0:	000004e9 	.word	0x000004e9
-  c4:	000004e9 	.word	0x000004e9
-  c8:	000004e9 	.word	0x000004e9
-  cc:	000004e9 	.word	0x000004e9
-  d0:	000004e9 	.word	0x000004e9
-  d4:	000004e9 	.word	0x000004e9
-  d8:	000004e9 	.word	0x000004e9
-  dc:	000004e9 	.word	0x000004e9
-  e0:	000004e9 	.word	0x000004e9
-  e4:	000004e9 	.word	0x000004e9
-  e8:	000004e9 	.word	0x000004e9
-  ec:	000004e9 	.word	0x000004e9
-  f0:	000004e9 	.word	0x000004e9
-  f4:	000004e9 	.word	0x000004e9
-  f8:	000004e9 	.word	0x000004e9
-  fc:	000004e9 	.word	0x000004e9
- 100:	000004e9 	.word	0x000004e9
- 104:	000004e9 	.word	0x000004e9
- 108:	000004e9 	.word	0x000004e9
- 10c:	000004e9 	.word	0x000004e9
- 110:	000004e9 	.word	0x000004e9
- 114:	000004e9 	.word	0x000004e9
- 118:	000004e9 	.word	0x000004e9
- 11c:	000004e9 	.word	0x000004e9
- 120:	000004e9 	.word	0x000004e9
- 124:	000004e9 	.word	0x000004e9
- 128:	000004e9 	.word	0x000004e9
- 12c:	000004e9 	.word	0x000004e9
- 130:	000004e9 	.word	0x000004e9
- 134:	000004e9 	.word	0x000004e9
- 138:	000004e9 	.word	0x000004e9
- 13c:	000004e9 	.word	0x000004e9
+  38:	00000589 	.word	0x00000589
+  3c:	00000589 	.word	0x00000589
+  40:	00000589 	.word	0x00000589
+  44:	00000589 	.word	0x00000589
+  48:	00000589 	.word	0x00000589
+  4c:	00000589 	.word	0x00000589
+  50:	00000589 	.word	0x00000589
+  54:	00000589 	.word	0x00000589
+  58:	00000589 	.word	0x00000589
+  5c:	00000589 	.word	0x00000589
+  60:	00000589 	.word	0x00000589
+  64:	00000589 	.word	0x00000589
+  68:	00000589 	.word	0x00000589
+  6c:	00000589 	.word	0x00000589
+  70:	00000589 	.word	0x00000589
+  74:	00000589 	.word	0x00000589
+  78:	00000589 	.word	0x00000589
+  7c:	00000589 	.word	0x00000589
+  80:	00000589 	.word	0x00000589
+  84:	00000589 	.word	0x00000589
+  88:	00000589 	.word	0x00000589
+  8c:	00000589 	.word	0x00000589
+  90:	00000589 	.word	0x00000589
+  94:	00000589 	.word	0x00000589
+  98:	00000589 	.word	0x00000589
+  9c:	00000589 	.word	0x00000589
+  a0:	00000589 	.word	0x00000589
+  a4:	00000589 	.word	0x00000589
+  a8:	00000589 	.word	0x00000589
+  ac:	00000589 	.word	0x00000589
+  b0:	00000589 	.word	0x00000589
+  b4:	00000589 	.word	0x00000589
+  b8:	00000589 	.word	0x00000589
+  bc:	00000589 	.word	0x00000589
+  c0:	00000589 	.word	0x00000589
+  c4:	00000589 	.word	0x00000589
+  c8:	00000589 	.word	0x00000589
+  cc:	00000589 	.word	0x00000589
+  d0:	00000589 	.word	0x00000589
+  d4:	00000589 	.word	0x00000589
+  d8:	00000589 	.word	0x00000589
+  dc:	00000589 	.word	0x00000589
+  e0:	00000589 	.word	0x00000589
+  e4:	00000589 	.word	0x00000589
+  e8:	00000589 	.word	0x00000589
+  ec:	00000589 	.word	0x00000589
+  f0:	00000589 	.word	0x00000589
+  f4:	00000589 	.word	0x00000589
+  f8:	00000589 	.word	0x00000589
+  fc:	00000589 	.word	0x00000589
+ 100:	00000589 	.word	0x00000589
+ 104:	00000589 	.word	0x00000589
+ 108:	00000589 	.word	0x00000589
+ 10c:	00000589 	.word	0x00000589
+ 110:	00000589 	.word	0x00000589
+ 114:	00000589 	.word	0x00000589
+ 118:	00000589 	.word	0x00000589
+ 11c:	00000589 	.word	0x00000589
+ 120:	00000589 	.word	0x00000589
+ 124:	00000589 	.word	0x00000589
+ 128:	00000589 	.word	0x00000589
+ 12c:	00000589 	.word	0x00000589
+ 130:	00000589 	.word	0x00000589
+ 134:	00000589 	.word	0x00000589
+ 138:	00000589 	.word	0x00000589
+ 13c:	00000589 	.word	0x00000589
 	...
- 150:	000004e9 	.word	0x000004e9
- 154:	000004e9 	.word	0x000004e9
- 158:	000004e9 	.word	0x000004e9
- 15c:	000004e9 	.word	0x000004e9
+ 150:	00000589 	.word	0x00000589
+ 154:	00000589 	.word	0x00000589
+ 158:	00000589 	.word	0x00000589
+ 15c:	00000589 	.word	0x00000589
 	...
- 1b0:	000004e9 	.word	0x000004e9
- 1b4:	000004e9 	.word	0x000004e9
- 1b8:	000004e9 	.word	0x000004e9
- 1bc:	000004e9 	.word	0x000004e9
- 1c0:	000004e9 	.word	0x000004e9
- 1c4:	000004e9 	.word	0x000004e9
- 1c8:	000004e9 	.word	0x000004e9
- 1cc:	000004e9 	.word	0x000004e9
- 1d0:	000004e9 	.word	0x000004e9
- 1d4:	000004e9 	.word	0x000004e9
- 1d8:	000004e9 	.word	0x000004e9
- 1dc:	000004e9 	.word	0x000004e9
- 1e0:	000004e9 	.word	0x000004e9
- 1e4:	000004e9 	.word	0x000004e9
- 1e8:	000004e9 	.word	0x000004e9
- 1ec:	000004e9 	.word	0x000004e9
- 1f0:	000004e9 	.word	0x000004e9
- 1f4:	000004e9 	.word	0x000004e9
- 1f8:	000004e9 	.word	0x000004e9
- 1fc:	000004e9 	.word	0x000004e9
- 200:	000004e9 	.word	0x000004e9
- 204:	000004e9 	.word	0x000004e9
- 208:	000004e9 	.word	0x000004e9
+ 1b0:	00000589 	.word	0x00000589
+ 1b4:	00000589 	.word	0x00000589
+ 1b8:	00000589 	.word	0x00000589
+ 1bc:	00000589 	.word	0x00000589
+ 1c0:	00000589 	.word	0x00000589
+ 1c4:	00000589 	.word	0x00000589
+ 1c8:	00000589 	.word	0x00000589
+ 1cc:	00000589 	.word	0x00000589
+ 1d0:	00000589 	.word	0x00000589
+ 1d4:	00000589 	.word	0x00000589
+ 1d8:	00000589 	.word	0x00000589
+ 1dc:	00000589 	.word	0x00000589
+ 1e0:	00000589 	.word	0x00000589
+ 1e4:	00000589 	.word	0x00000589
+ 1e8:	00000589 	.word	0x00000589
+ 1ec:	00000589 	.word	0x00000589
+ 1f0:	00000589 	.word	0x00000589
+ 1f4:	00000589 	.word	0x00000589
+ 1f8:	00000589 	.word	0x00000589
+ 1fc:	00000589 	.word	0x00000589
+ 200:	00000589 	.word	0x00000589
+ 204:	00000589 	.word	0x00000589
+ 208:	00000589 	.word	0x00000589
  20c:	00000000 	.word	0x00000000
- 210:	000004e9 	.word	0x000004e9
- 214:	000004e9 	.word	0x000004e9
- 218:	000004e9 	.word	0x000004e9
- 21c:	000004e9 	.word	0x000004e9
- 220:	000004e9 	.word	0x000004e9
- 224:	000004e9 	.word	0x000004e9
- 228:	000004e9 	.word	0x000004e9
- 22c:	000004e9 	.word	0x000004e9
- 230:	000004e9 	.word	0x000004e9
- 234:	000004e9 	.word	0x000004e9
- 238:	000004e9 	.word	0x000004e9
- 23c:	000004e9 	.word	0x000004e9
- 240:	000004e9 	.word	0x000004e9
- 244:	000004e9 	.word	0x000004e9
- 248:	000004e9 	.word	0x000004e9
- 24c:	000004e9 	.word	0x000004e9
- 250:	000004e9 	.word	0x000004e9
- 254:	000004e9 	.word	0x000004e9
- 258:	000004e9 	.word	0x000004e9
- 25c:	000004e9 	.word	0x000004e9
- 260:	000004e9 	.word	0x000004e9
- 264:	000004e9 	.word	0x000004e9
- 268:	000004e9 	.word	0x000004e9
+ 210:	00000589 	.word	0x00000589
+ 214:	00000589 	.word	0x00000589
+ 218:	00000589 	.word	0x00000589
+ 21c:	00000589 	.word	0x00000589
+ 220:	00000589 	.word	0x00000589
+ 224:	00000589 	.word	0x00000589
+ 228:	00000589 	.word	0x00000589
+ 22c:	00000589 	.word	0x00000589
+ 230:	00000589 	.word	0x00000589
+ 234:	00000589 	.word	0x00000589
+ 238:	00000589 	.word	0x00000589
+ 23c:	00000589 	.word	0x00000589
+ 240:	00000589 	.word	0x00000589
+ 244:	00000589 	.word	0x00000589
+ 248:	00000589 	.word	0x00000589
+ 24c:	00000589 	.word	0x00000589
+ 250:	00000589 	.word	0x00000589
+ 254:	00000589 	.word	0x00000589
+ 258:	00000589 	.word	0x00000589
+ 25c:	00000589 	.word	0x00000589
+ 260:	00000589 	.word	0x00000589
+ 264:	00000589 	.word	0x00000589
+ 268:	00000589 	.word	0x00000589
 
 0000026c <dc_motor_init>:
     float max_voltage;
@@ -142,427 +142,496 @@ Disassembly of section .text:
   }motor_constants;
 }dc_motor;
 
-void dc_motor_init(int port){
+void dc_motor_init(){
  26c:	b480      	push	{r7}
- 26e:	b083      	sub	sp, #12
- 270:	af00      	add	r7, sp, #0
- 272:	6078      	str	r0, [r7, #4]
-  DC_MOTOR_INIT(port);
- 274:	f24e 6308 	movw	r3, #58888	; 0xe608
- 278:	f2c4 030f 	movt	r3, #16399	; 0x400f
- 27c:	f24e 6208 	movw	r2, #58888	; 0xe608
- 280:	f2c4 020f 	movt	r2, #16399	; 0x400f
- 284:	6812      	ldr	r2, [r2, #0]
- 286:	f042 0202 	orr.w	r2, r2, #2
- 28a:	601a      	str	r2, [r3, #0]
- 28c:	f24e 6304 	movw	r3, #58884	; 0xe604
- 290:	f2c4 030f 	movt	r3, #16399	; 0x400f
- 294:	f24e 6204 	movw	r2, #58884	; 0xe604
- 298:	f2c4 020f 	movt	r2, #16399	; 0x400f
- 29c:	6812      	ldr	r2, [r2, #0]
- 29e:	f042 0201 	orr.w	r2, r2, #1
- 2a2:	601a      	str	r2, [r3, #0]
- 2a4:	f245 531c 	movw	r3, #21788	; 0x551c
- 2a8:	f2c4 0300 	movt	r3, #16384	; 0x4000
- 2ac:	f245 521c 	movw	r2, #21788	; 0x551c
- 2b0:	f2c4 0200 	movt	r2, #16384	; 0x4000
- 2b4:	6811      	ldr	r1, [r2, #0]
- 2b6:	687a      	ldr	r2, [r7, #4]
- 2b8:	430a      	orrs	r2, r1
- 2ba:	601a      	str	r2, [r3, #0]
- 2bc:	f245 4320 	movw	r3, #21536	; 0x5420
- 2c0:	f2c4 0300 	movt	r3, #16384	; 0x4000
- 2c4:	f245 4220 	movw	r2, #21536	; 0x5420
- 2c8:	f2c4 0200 	movt	r2, #16384	; 0x4000
- 2cc:	6811      	ldr	r1, [r2, #0]
- 2ce:	687a      	ldr	r2, [r7, #4]
- 2d0:	430a      	orrs	r2, r1
- 2d2:	601a      	str	r2, [r3, #0]
- 2d4:	f245 532c 	movw	r3, #21804	; 0x552c
- 2d8:	f2c4 0300 	movt	r3, #16384	; 0x4000
- 2dc:	f245 522c 	movw	r2, #21804	; 0x552c
- 2e0:	f2c4 0200 	movt	r2, #16384	; 0x4000
- 2e4:	6812      	ldr	r2, [r2, #0]
- 2e6:	f042 62e0 	orr.w	r2, r2, #117440512	; 0x7000000
- 2ea:	601a      	str	r2, [r3, #0]
- 2ec:	f245 5220 	movw	r2, #21792	; 0x5520
- 2f0:	f2c4 0200 	movt	r2, #16384	; 0x4000
- 2f4:	f245 5320 	movw	r3, #21792	; 0x5520
- 2f8:	f2c4 0300 	movt	r3, #16384	; 0x4000
- 2fc:	6819      	ldr	r1, [r3, #0]
- 2fe:	f244 334b 	movw	r3, #17227	; 0x434b
- 302:	f6c4 434f 	movt	r3, #19535	; 0x4c4f
- 306:	430b      	orrs	r3, r1
- 308:	6013      	str	r3, [r2, #0]
- 30a:	f245 5324 	movw	r3, #21796	; 0x5524
- 30e:	f2c4 0300 	movt	r3, #16384	; 0x4000
- 312:	f245 5224 	movw	r2, #21796	; 0x5524
- 316:	f2c4 0200 	movt	r2, #16384	; 0x4000
- 31a:	6811      	ldr	r1, [r2, #0]
- 31c:	687a      	ldr	r2, [r7, #4]
- 31e:	430a      	orrs	r2, r1
- 320:	601a      	str	r2, [r3, #0]
- 322:	2300      	movs	r3, #0
- 324:	f2c4 0303 	movt	r3, #16387	; 0x4003
- 328:	2200      	movs	r2, #0
- 32a:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 26e:	af00      	add	r7, sp, #0
+  DC_MOTORA_THROTTLE_INIT;
+ 270:	f64e 2304 	movw	r3, #59908	; 0xea04
+ 274:	f2c4 030f 	movt	r3, #16399	; 0x400f
+ 278:	f64e 2204 	movw	r2, #59908	; 0xea04
+ 27c:	f2c4 020f 	movt	r2, #16399	; 0x400f
+ 280:	6812      	ldr	r2, [r2, #0]
+ 282:	f042 0201 	orr.w	r2, r2, #1
+ 286:	601a      	str	r2, [r3, #0]
+ 288:	f24e 6308 	movw	r3, #58888	; 0xe608
+ 28c:	f2c4 030f 	movt	r3, #16399	; 0x400f
+ 290:	f24e 6208 	movw	r2, #58888	; 0xe608
+ 294:	f2c4 020f 	movt	r2, #16399	; 0x400f
+ 298:	6812      	ldr	r2, [r2, #0]
+ 29a:	f042 0202 	orr.w	r2, r2, #2
+ 29e:	601a      	str	r2, [r3, #0]
+ 2a0:	f24e 6304 	movw	r3, #58884	; 0xe604
+ 2a4:	f2c4 030f 	movt	r3, #16399	; 0x400f
+ 2a8:	f24e 6204 	movw	r2, #58884	; 0xe604
+ 2ac:	f2c4 020f 	movt	r2, #16399	; 0x400f
+ 2b0:	6812      	ldr	r2, [r2, #0]
+ 2b2:	f042 0201 	orr.w	r2, r2, #1
+ 2b6:	601a      	str	r2, [r3, #0]
+ 2b8:	f245 531c 	movw	r3, #21788	; 0x551c
+ 2bc:	f2c4 0300 	movt	r3, #16384	; 0x4000
+ 2c0:	f245 521c 	movw	r2, #21788	; 0x551c
+ 2c4:	f2c4 0200 	movt	r2, #16384	; 0x4000
+ 2c8:	6812      	ldr	r2, [r2, #0]
+ 2ca:	f042 0240 	orr.w	r2, r2, #64	; 0x40
+ 2ce:	601a      	str	r2, [r3, #0]
+ 2d0:	f245 4320 	movw	r3, #21536	; 0x5420
+ 2d4:	f2c4 0300 	movt	r3, #16384	; 0x4000
+ 2d8:	f245 4220 	movw	r2, #21536	; 0x5420
+ 2dc:	f2c4 0200 	movt	r2, #16384	; 0x4000
+ 2e0:	6812      	ldr	r2, [r2, #0]
+ 2e2:	f042 0240 	orr.w	r2, r2, #64	; 0x40
+ 2e6:	601a      	str	r2, [r3, #0]
+ 2e8:	f245 532c 	movw	r3, #21804	; 0x552c
+ 2ec:	f2c4 0300 	movt	r3, #16384	; 0x4000
+ 2f0:	f245 522c 	movw	r2, #21804	; 0x552c
+ 2f4:	f2c4 0200 	movt	r2, #16384	; 0x4000
+ 2f8:	6812      	ldr	r2, [r2, #0]
+ 2fa:	f042 62e0 	orr.w	r2, r2, #117440512	; 0x7000000
+ 2fe:	601a      	str	r2, [r3, #0]
+ 300:	f245 5220 	movw	r2, #21792	; 0x5520
+ 304:	f2c4 0200 	movt	r2, #16384	; 0x4000
+ 308:	f245 5320 	movw	r3, #21792	; 0x5520
+ 30c:	f2c4 0300 	movt	r3, #16384	; 0x4000
+ 310:	6819      	ldr	r1, [r3, #0]
+ 312:	f244 334b 	movw	r3, #17227	; 0x434b
+ 316:	f6c4 434f 	movt	r3, #19535	; 0x4c4f
+ 31a:	430b      	orrs	r3, r1
+ 31c:	6013      	str	r3, [r2, #0]
+ 31e:	f245 5324 	movw	r3, #21796	; 0x5524
+ 322:	f2c4 0300 	movt	r3, #16384	; 0x4000
+ 326:	f245 5224 	movw	r2, #21796	; 0x5524
+ 32a:	f2c4 0200 	movt	r2, #16384	; 0x4000
  32e:	6812      	ldr	r2, [r2, #0]
- 330:	f042 0204 	orr.w	r2, r2, #4
+ 330:	f042 0240 	orr.w	r2, r2, #64	; 0x40
  334:	601a      	str	r2, [r3, #0]
- 336:	2338      	movs	r3, #56	; 0x38
+ 336:	2300      	movs	r3, #0
  338:	f2c4 0303 	movt	r3, #16387	; 0x4003
- 33c:	681b      	ldr	r3, [r3, #0]
- 33e:	2328      	movs	r3, #40	; 0x28
- 340:	f2c4 0303 	movt	r3, #16387	; 0x4003
- 344:	681b      	ldr	r3, [r3, #0]
- 346:	2330      	movs	r3, #48	; 0x30
- 348:	f2c4 0303 	movt	r3, #16387	; 0x4003
- 34c:	681b      	ldr	r3, [r3, #0]
- 34e:	2304      	movs	r3, #4
- 350:	f2c4 0303 	movt	r3, #16387	; 0x4003
- 354:	2204      	movs	r2, #4
- 356:	f2c4 0203 	movt	r2, #16387	; 0x4003
- 35a:	6812      	ldr	r2, [r2, #0]
- 35c:	f042 020a 	orr.w	r2, r2, #10
- 360:	601a      	str	r2, [r3, #0]
- 362:	230c      	movs	r3, #12
- 364:	f2c4 0303 	movt	r3, #16387	; 0x4003
- 368:	220c      	movs	r2, #12
- 36a:	f2c4 0203 	movt	r2, #16387	; 0x4003
- 36e:	6812      	ldr	r2, [r2, #0]
- 370:	f022 0201 	bic.w	r2, r2, #1
- 374:	601a      	str	r2, [r3, #0]
+ 33c:	2200      	movs	r2, #0
+ 33e:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 342:	6812      	ldr	r2, [r2, #0]
+ 344:	f042 0204 	orr.w	r2, r2, #4
+ 348:	601a      	str	r2, [r3, #0]
+ 34a:	230c      	movs	r3, #12
+ 34c:	f2c4 0303 	movt	r3, #16387	; 0x4003
+ 350:	220c      	movs	r2, #12
+ 352:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 356:	6812      	ldr	r2, [r2, #0]
+ 358:	601a      	str	r2, [r3, #0]
+ 35a:	2304      	movs	r3, #4
+ 35c:	f2c4 0303 	movt	r3, #16387	; 0x4003
+ 360:	2204      	movs	r2, #4
+ 362:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 366:	6812      	ldr	r2, [r2, #0]
+ 368:	f042 020a 	orr.w	r2, r2, #10
+ 36c:	601a      	str	r2, [r3, #0]
+  //DC_MOTORB_THROTTLE_INIT;
+  //DC_MOTORB_SIG_CLKWISE_INIT;
+  //DC_MOTORB_SIGACLKWISE_INIT;
+  
+  
 }
- 376:	370c      	adds	r7, #12
- 378:	46bd      	mov	sp, r7
- 37a:	f85d 7b04 	ldr.w	r7, [sp], #4
- 37e:	4770      	bx	lr
+ 36e:	46bd      	mov	sp, r7
+ 370:	f85d 7b04 	ldr.w	r7, [sp], #4
+ 374:	4770      	bx	lr
+ 376:	bf00      	nop
 
-00000380 <main>:
+00000378 <dc_motor_ctrl>:
+void dc_motor_ctrl(int direction, int throttle, int enable){
+ 378:	b480      	push	{r7}
+ 37a:	b087      	sub	sp, #28
+ 37c:	af00      	add	r7, sp, #0
+ 37e:	60f8      	str	r0, [r7, #12]
+ 380:	60b9      	str	r1, [r7, #8]
+ 382:	607a      	str	r2, [r7, #4]
+	int throttleA = throttle;
+ 384:	68bb      	ldr	r3, [r7, #8]
+ 386:	617b      	str	r3, [r7, #20]
+	int throttleB = throttle;
+ 388:	68bb      	ldr	r3, [r7, #8]
+ 38a:	613b      	str	r3, [r7, #16]
+	DC_MOTORA_THROTTLE((throttleA),(throttleB));
+ 38c:	230c      	movs	r3, #12
+ 38e:	f2c4 0303 	movt	r3, #16387	; 0x4003
+ 392:	220c      	movs	r2, #12
+ 394:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 398:	6812      	ldr	r2, [r2, #0]
+ 39a:	f022 0201 	bic.w	r2, r2, #1
+ 39e:	601a      	str	r2, [r3, #0]
+ 3a0:	2338      	movs	r3, #56	; 0x38
+ 3a2:	f2c4 0303 	movt	r3, #16387	; 0x4003
+ 3a6:	2238      	movs	r2, #56	; 0x38
+ 3a8:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 3ac:	6812      	ldr	r2, [r2, #0]
+ 3ae:	f042 02ff 	orr.w	r2, r2, #255	; 0xff
+ 3b2:	601a      	str	r2, [r3, #0]
+ 3b4:	2328      	movs	r3, #40	; 0x28
+ 3b6:	f2c4 0303 	movt	r3, #16387	; 0x4003
+ 3ba:	2228      	movs	r2, #40	; 0x28
+ 3bc:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 3c0:	6812      	ldr	r2, [r2, #0]
+ 3c2:	ea6f 4212 	mvn.w	r2, r2, lsr #16
+ 3c6:	ea6f 4202 	mvn.w	r2, r2, lsl #16
+ 3ca:	601a      	str	r2, [r3, #0]
+ 3cc:	2340      	movs	r3, #64	; 0x40
+ 3ce:	f2c4 0303 	movt	r3, #16387	; 0x4003
+ 3d2:	2240      	movs	r2, #64	; 0x40
+ 3d4:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 3d8:	6811      	ldr	r1, [r2, #0]
+ 3da:	697a      	ldr	r2, [r7, #20]
+ 3dc:	1412      	asrs	r2, r2, #16
+ 3de:	430a      	orrs	r2, r1
+ 3e0:	601a      	str	r2, [r3, #0]
+ 3e2:	2330      	movs	r3, #48	; 0x30
+ 3e4:	f2c4 0303 	movt	r3, #16387	; 0x4003
+ 3e8:	2230      	movs	r2, #48	; 0x30
+ 3ea:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 3ee:	6811      	ldr	r1, [r2, #0]
+ 3f0:	693a      	ldr	r2, [r7, #16]
+ 3f2:	b292      	uxth	r2, r2
+ 3f4:	430a      	orrs	r2, r1
+ 3f6:	601a      	str	r2, [r3, #0]
+ 3f8:	230c      	movs	r3, #12
+ 3fa:	f2c4 0303 	movt	r3, #16387	; 0x4003
+ 3fe:	220c      	movs	r2, #12
+ 400:	f2c4 0203 	movt	r2, #16387	; 0x4003
+ 404:	6812      	ldr	r2, [r2, #0]
+ 406:	f042 0201 	orr.w	r2, r2, #1
+ 40a:	601a      	str	r2, [r3, #0]
+ 40c:	371c      	adds	r7, #28
+ 40e:	46bd      	mov	sp, r7
+ 410:	f85d 7b04 	ldr.w	r7, [sp], #4
+ 414:	4770      	bx	lr
+ 416:	bf00      	nop
+
+00000418 <main>:
 /*
 * powerSysController.c
 */
 #include "../includes/powerSysController.h"
 
 int main(void) {
- 380:	b580      	push	{r7, lr}
- 382:	b082      	sub	sp, #8
- 384:	af00      	add	r7, sp, #0
-	CLOCK_CFG;
- 386:	f24e 0360 	movw	r3, #57440	; 0xe060
- 38a:	f2c4 030f 	movt	r3, #16399	; 0x400f
- 38e:	f44f 62a8 	mov.w	r2, #1344	; 0x540
- 392:	f2c0 2240 	movt	r2, #576	; 0x240
- 396:	601a      	str	r2, [r3, #0]
-	STROBE_ENABLE;
- 398:	f24e 6308 	movw	r3, #58888	; 0xe608
- 39c:	f2c4 030f 	movt	r3, #16399	; 0x400f
- 3a0:	f24e 6208 	movw	r2, #58888	; 0xe608
- 3a4:	f2c4 020f 	movt	r2, #16399	; 0x400f
- 3a8:	6812      	ldr	r2, [r2, #0]
- 3aa:	f042 0220 	orr.w	r2, r2, #32
- 3ae:	601a      	str	r2, [r3, #0]
- 3b0:	f44f 43a8 	mov.w	r3, #21504	; 0x5400
- 3b4:	f2c4 0302 	movt	r3, #16386	; 0x4002
- 3b8:	f44f 42a8 	mov.w	r2, #21504	; 0x5400
- 3bc:	f2c4 0202 	movt	r2, #16386	; 0x4002
- 3c0:	6812      	ldr	r2, [r2, #0]
- 3c2:	f042 020e 	orr.w	r2, r2, #14
- 3c6:	601a      	str	r2, [r3, #0]
- 3c8:	f44f 43aa 	mov.w	r3, #21760	; 0x5500
- 3cc:	f2c4 0302 	movt	r3, #16386	; 0x4002
- 3d0:	f44f 42aa 	mov.w	r2, #21760	; 0x5500
- 3d4:	f2c4 0202 	movt	r2, #16386	; 0x4002
- 3d8:	6812      	ldr	r2, [r2, #0]
- 3da:	f042 020e 	orr.w	r2, r2, #14
- 3de:	601a      	str	r2, [r3, #0]
- 3e0:	f245 531c 	movw	r3, #21788	; 0x551c
- 3e4:	f2c4 0302 	movt	r3, #16386	; 0x4002
- 3e8:	f245 521c 	movw	r2, #21788	; 0x551c
- 3ec:	f2c4 0202 	movt	r2, #16386	; 0x4002
- 3f0:	6812      	ldr	r2, [r2, #0]
- 3f2:	f042 020e 	orr.w	r2, r2, #14
- 3f6:	601a      	str	r2, [r3, #0]
- 3f8:	f245 5220 	movw	r2, #21792	; 0x5520
- 3fc:	f2c4 0202 	movt	r2, #16386	; 0x4002
- 400:	f245 5320 	movw	r3, #21792	; 0x5520
- 404:	f2c4 0302 	movt	r3, #16386	; 0x4002
- 408:	6819      	ldr	r1, [r3, #0]
- 40a:	f244 334b 	movw	r3, #17227	; 0x434b
- 40e:	f6c4 434f 	movt	r3, #19535	; 0x4c4f
- 412:	430b      	orrs	r3, r1
- 414:	6013      	str	r3, [r2, #0]
- 416:	f245 5324 	movw	r3, #21796	; 0x5524
- 41a:	f2c4 0302 	movt	r3, #16386	; 0x4002
- 41e:	f245 5224 	movw	r2, #21796	; 0x5524
- 422:	f2c4 0202 	movt	r2, #16386	; 0x4002
- 426:	6812      	ldr	r2, [r2, #0]
- 428:	f042 020e 	orr.w	r2, r2, #14
- 42c:	601a      	str	r2, [r3, #0]
-
-	dc_motor_init(DC_MTRA);
- 42e:	2040      	movs	r0, #64	; 0x40
- 430:	f7ff ff1c 	bl	26c <dc_motor_init>
+ 418:	b580      	push	{r7, lr}
+ 41a:	b082      	sub	sp, #8
+ 41c:	af00      	add	r7, sp, #0
+	
 	unsigned long i = 0;
- 434:	2300      	movs	r3, #0
- 436:	603b      	str	r3, [r7, #0]
+ 41e:	2300      	movs	r3, #0
+ 420:	603b      	str	r3, [r7, #0]
 	unsigned long ulLoop = 0;
- 438:	2300      	movs	r3, #0
- 43a:	607b      	str	r3, [r7, #4]
+ 422:	2300      	movs	r3, #0
+ 424:	607b      	str	r3, [r7, #4]
+	CLOCK_CFG;
+ 426:	f24e 0360 	movw	r3, #57440	; 0xe060
+ 42a:	f2c4 030f 	movt	r3, #16399	; 0x400f
+ 42e:	f44f 62a8 	mov.w	r2, #1344	; 0x540
+ 432:	f2c0 2240 	movt	r2, #576	; 0x240
+ 436:	601a      	str	r2, [r3, #0]
+	STROBE_ENABLE;
+ 438:	f24e 6308 	movw	r3, #58888	; 0xe608
+ 43c:	f2c4 030f 	movt	r3, #16399	; 0x400f
+ 440:	f24e 6208 	movw	r2, #58888	; 0xe608
+ 444:	f2c4 020f 	movt	r2, #16399	; 0x400f
+ 448:	6812      	ldr	r2, [r2, #0]
+ 44a:	f042 0220 	orr.w	r2, r2, #32
+ 44e:	601a      	str	r2, [r3, #0]
+ 450:	f44f 43a8 	mov.w	r3, #21504	; 0x5400
+ 454:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 458:	f44f 42a8 	mov.w	r2, #21504	; 0x5400
+ 45c:	f2c4 0202 	movt	r2, #16386	; 0x4002
+ 460:	6812      	ldr	r2, [r2, #0]
+ 462:	f042 020e 	orr.w	r2, r2, #14
+ 466:	601a      	str	r2, [r3, #0]
+ 468:	f44f 43aa 	mov.w	r3, #21760	; 0x5500
+ 46c:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 470:	f44f 42aa 	mov.w	r2, #21760	; 0x5500
+ 474:	f2c4 0202 	movt	r2, #16386	; 0x4002
+ 478:	6812      	ldr	r2, [r2, #0]
+ 47a:	f042 020e 	orr.w	r2, r2, #14
+ 47e:	601a      	str	r2, [r3, #0]
+ 480:	f245 531c 	movw	r3, #21788	; 0x551c
+ 484:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 488:	f245 521c 	movw	r2, #21788	; 0x551c
+ 48c:	f2c4 0202 	movt	r2, #16386	; 0x4002
+ 490:	6812      	ldr	r2, [r2, #0]
+ 492:	f042 020e 	orr.w	r2, r2, #14
+ 496:	601a      	str	r2, [r3, #0]
+ 498:	f245 5220 	movw	r2, #21792	; 0x5520
+ 49c:	f2c4 0202 	movt	r2, #16386	; 0x4002
+ 4a0:	f245 5320 	movw	r3, #21792	; 0x5520
+ 4a4:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 4a8:	6819      	ldr	r1, [r3, #0]
+ 4aa:	f244 334b 	movw	r3, #17227	; 0x434b
+ 4ae:	f6c4 434f 	movt	r3, #19535	; 0x4c4f
+ 4b2:	430b      	orrs	r3, r1
+ 4b4:	6013      	str	r3, [r2, #0]
+ 4b6:	f245 5324 	movw	r3, #21796	; 0x5524
+ 4ba:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 4be:	f245 5224 	movw	r2, #21796	; 0x5524
+ 4c2:	f2c4 0202 	movt	r2, #16386	; 0x4002
+ 4c6:	6812      	ldr	r2, [r2, #0]
+ 4c8:	f042 020e 	orr.w	r2, r2, #14
+ 4cc:	601a      	str	r2, [r3, #0]
+
+	dc_motor_init();
+ 4ce:	f7ff fecd 	bl	26c <dc_motor_init>
+	dc_motor_ctrl(0,0x00800000,0);
+ 4d2:	2000      	movs	r0, #0
+ 4d4:	f44f 0100 	mov.w	r1, #8388608	; 0x800000
+ 4d8:	2200      	movs	r2, #0
+ 4da:	f7ff ff4d 	bl	378 <dc_motor_ctrl>
 	while(1){
 		strobe_pattern(0);
- 43c:	2000      	movs	r0, #0
- 43e:	f000 f857 	bl	4f0 <strobe_pattern>
+ 4de:	2000      	movs	r0, #0
+ 4e0:	f000 f856 	bl	590 <strobe_pattern>
 		//STROBE(LED_CYAN);
 		for(ulLoop = 0; ulLoop < 500000; ulLoop++);
- 442:	2300      	movs	r3, #0
- 444:	607b      	str	r3, [r7, #4]
- 446:	e002      	b.n	44e <main+0xce>
- 448:	687b      	ldr	r3, [r7, #4]
- 44a:	3301      	adds	r3, #1
- 44c:	607b      	str	r3, [r7, #4]
- 44e:	687a      	ldr	r2, [r7, #4]
- 450:	f24a 131f 	movw	r3, #41247	; 0xa11f
- 454:	f2c0 0307 	movt	r3, #7
- 458:	429a      	cmp	r2, r3
- 45a:	d9f5      	bls.n	448 <main+0xc8>
+ 4e4:	2300      	movs	r3, #0
+ 4e6:	607b      	str	r3, [r7, #4]
+ 4e8:	e002      	b.n	4f0 <main+0xd8>
+ 4ea:	687b      	ldr	r3, [r7, #4]
+ 4ec:	3301      	adds	r3, #1
+ 4ee:	607b      	str	r3, [r7, #4]
+ 4f0:	687a      	ldr	r2, [r7, #4]
+ 4f2:	f24a 131f 	movw	r3, #41247	; 0xa11f
+ 4f6:	f2c0 0307 	movt	r3, #7
+ 4fa:	429a      	cmp	r2, r3
+ 4fc:	d9f5      	bls.n	4ea <main+0xd2>
 	}
- 45c:	e7ee      	b.n	43c <main+0xbc>
- 45e:	bf00      	nop
+ 4fe:	e7ee      	b.n	4de <main+0xc6>
 
-00000460 <ResetISR>:
+00000500 <ResetISR>:
 // application.
 //
 //*****************************************************************************
 void
 ResetISR(void)
 {
- 460:	b580      	push	{r7, lr}
- 462:	b082      	sub	sp, #8
- 464:	af00      	add	r7, sp, #0
+ 500:	b580      	push	{r7, lr}
+ 502:	b082      	sub	sp, #8
+ 504:	af00      	add	r7, sp, #0
     unsigned long *pulSrc, *pulDest;
 
     //
     // Copy the data segment initializers from flash to SRAM.
     //
     pulSrc = &_etext;
- 466:	f240 53b4 	movw	r3, #1460	; 0x5b4
- 46a:	f2c0 0300 	movt	r3, #0
- 46e:	607b      	str	r3, [r7, #4]
+ 506:	f240 6354 	movw	r3, #1620	; 0x654
+ 50a:	f2c0 0300 	movt	r3, #0
+ 50e:	607b      	str	r3, [r7, #4]
     for(pulDest = &_data; pulDest < &_edata; )
- 470:	f240 0300 	movw	r3, #0
- 474:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 478:	603b      	str	r3, [r7, #0]
- 47a:	e007      	b.n	48c <ResetISR+0x2c>
+ 510:	f240 0300 	movw	r3, #0
+ 514:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 518:	603b      	str	r3, [r7, #0]
+ 51a:	e007      	b.n	52c <ResetISR+0x2c>
     {
         *pulDest++ = *pulSrc++;
- 47c:	683b      	ldr	r3, [r7, #0]
- 47e:	1d1a      	adds	r2, r3, #4
- 480:	603a      	str	r2, [r7, #0]
- 482:	687a      	ldr	r2, [r7, #4]
- 484:	1d11      	adds	r1, r2, #4
- 486:	6079      	str	r1, [r7, #4]
- 488:	6812      	ldr	r2, [r2, #0]
- 48a:	601a      	str	r2, [r3, #0]
+ 51c:	683b      	ldr	r3, [r7, #0]
+ 51e:	1d1a      	adds	r2, r3, #4
+ 520:	603a      	str	r2, [r7, #0]
+ 522:	687a      	ldr	r2, [r7, #4]
+ 524:	1d11      	adds	r1, r2, #4
+ 526:	6079      	str	r1, [r7, #4]
+ 528:	6812      	ldr	r2, [r2, #0]
+ 52a:	601a      	str	r2, [r3, #0]
 
     //
     // Copy the data segment initializers from flash to SRAM.
     //
     pulSrc = &_etext;
     for(pulDest = &_data; pulDest < &_edata; )
- 48c:	683a      	ldr	r2, [r7, #0]
- 48e:	f240 0370 	movw	r3, #112	; 0x70
- 492:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 496:	429a      	cmp	r2, r3
- 498:	d3f0      	bcc.n	47c <ResetISR+0x1c>
+ 52c:	683a      	ldr	r2, [r7, #0]
+ 52e:	f240 0370 	movw	r3, #112	; 0x70
+ 532:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 536:	429a      	cmp	r2, r3
+ 538:	d3f0      	bcc.n	51c <ResetISR+0x1c>
     }
 
     //
     // Zero fill the bss segment.
     //
     __asm("    ldr     r0, =_bss\n"
- 49a:	480d      	ldr	r0, [pc, #52]	; (4d0 <zero_loop+0x2e>)
- 49c:	490d      	ldr	r1, [pc, #52]	; (4d4 <zero_loop+0x32>)
- 49e:	f04f 0200 	mov.w	r2, #0
+ 53a:	480d      	ldr	r0, [pc, #52]	; (570 <zero_loop+0x2e>)
+ 53c:	490d      	ldr	r1, [pc, #52]	; (574 <zero_loop+0x32>)
+ 53e:	f04f 0200 	mov.w	r2, #0
 
-000004a2 <zero_loop>:
- 4a2:	4288      	cmp	r0, r1
- 4a4:	bfb8      	it	lt
- 4a6:	f840 2b04 	strlt.w	r2, [r0], #4
- 4aa:	dbfa      	blt.n	4a2 <zero_loop>
+00000542 <zero_loop>:
+ 542:	4288      	cmp	r0, r1
+ 544:	bfb8      	it	lt
+ 546:	f840 2b04 	strlt.w	r2, [r0], #4
+ 54a:	dbfa      	blt.n	542 <zero_loop>
     // APIs must be done here prior to the floating-point unit being enabled.
     //
     // Note that this does not use DriverLib since it might not be included in
     // this project.
     //
     HWREG(NVIC_CPAC) = ((HWREG(NVIC_CPAC) &
- 4ac:	f64e 5388 	movw	r3, #60808	; 0xed88
- 4b0:	f2ce 0300 	movt	r3, #57344	; 0xe000
- 4b4:	f64e 5288 	movw	r2, #60808	; 0xed88
- 4b8:	f2ce 0200 	movt	r2, #57344	; 0xe000
- 4bc:	6812      	ldr	r2, [r2, #0]
+ 54c:	f64e 5388 	movw	r3, #60808	; 0xed88
+ 550:	f2ce 0300 	movt	r3, #57344	; 0xe000
+ 554:	f64e 5288 	movw	r2, #60808	; 0xed88
+ 558:	f2ce 0200 	movt	r2, #57344	; 0xe000
+ 55c:	6812      	ldr	r2, [r2, #0]
                          ~(NVIC_CPAC_CP10_M | NVIC_CPAC_CP11_M)) |
                         NVIC_CPAC_CP10_FULL | NVIC_CPAC_CP11_FULL);
- 4be:	f442 0270 	orr.w	r2, r2, #15728640	; 0xf00000
+ 55e:	f442 0270 	orr.w	r2, r2, #15728640	; 0xf00000
     // APIs must be done here prior to the floating-point unit being enabled.
     //
     // Note that this does not use DriverLib since it might not be included in
     // this project.
     //
     HWREG(NVIC_CPAC) = ((HWREG(NVIC_CPAC) &
- 4c2:	601a      	str	r2, [r3, #0]
+ 562:	601a      	str	r2, [r3, #0]
                         NVIC_CPAC_CP10_FULL | NVIC_CPAC_CP11_FULL);
 
     //
     // Call the application's entry point.
     //
     main();
- 4c4:	f7ff ff5c 	bl	380 <main>
+ 564:	f7ff ff58 	bl	418 <main>
 }
- 4c8:	3708      	adds	r7, #8
- 4ca:	46bd      	mov	sp, r7
- 4cc:	bd80      	pop	{r7, pc}
- 4ce:	0000      	.short	0x0000
- 4d0:	20000070 	.word	0x20000070
- 4d4:	20000174 	.word	0x20000174
+ 568:	3708      	adds	r7, #8
+ 56a:	46bd      	mov	sp, r7
+ 56c:	bd80      	pop	{r7, pc}
+ 56e:	0000      	.short	0x0000
+ 570:	20000070 	.word	0x20000070
+ 574:	20000174 	.word	0x20000174
 
-000004d8 <NmiSR>:
+00000578 <NmiSR>:
 // by a debugger.
 //
 //*****************************************************************************
 static void
 NmiSR(void)
 {
- 4d8:	b480      	push	{r7}
- 4da:	af00      	add	r7, sp, #0
+ 578:	b480      	push	{r7}
+ 57a:	af00      	add	r7, sp, #0
     //
     // Enter an infinite loop.
     //
     while(1)
     {
     }
- 4dc:	e7fe      	b.n	4dc <NmiSR+0x4>
- 4de:	bf00      	nop
+ 57c:	e7fe      	b.n	57c <NmiSR+0x4>
+ 57e:	bf00      	nop
 
-000004e0 <FaultISR>:
+00000580 <FaultISR>:
 // for examination by a debugger.
 //
 //*****************************************************************************
 static void
 FaultISR(void)
 {
- 4e0:	b480      	push	{r7}
- 4e2:	af00      	add	r7, sp, #0
+ 580:	b480      	push	{r7}
+ 582:	af00      	add	r7, sp, #0
     //
     // Enter an infinite loop.
     //
     while(1)
     {
     }
- 4e4:	e7fe      	b.n	4e4 <FaultISR+0x4>
- 4e6:	bf00      	nop
+ 584:	e7fe      	b.n	584 <FaultISR+0x4>
+ 586:	bf00      	nop
 
-000004e8 <IntDefaultHandler>:
+00000588 <IntDefaultHandler>:
 // for examination by a debugger.
 //
 //*****************************************************************************
 static void
 IntDefaultHandler(void)
 {
- 4e8:	b480      	push	{r7}
- 4ea:	af00      	add	r7, sp, #0
+ 588:	b480      	push	{r7}
+ 58a:	af00      	add	r7, sp, #0
     //
     // Go into an infinite loop.
     //
     while(1)
     {
     }
- 4ec:	e7fe      	b.n	4ec <IntDefaultHandler+0x4>
- 4ee:	bf00      	nop
+ 58c:	e7fe      	b.n	58c <IntDefaultHandler+0x4>
+ 58e:	bf00      	nop
 
-000004f0 <strobe_pattern>:
+00000590 <strobe_pattern>:
 static volatile int strobe_sequence_SUPERSYS[14] = {LED_R, LED_BLACK, LED_G, LED_BLACK, LED_B, LED_BLACK, LED_WHITE, LED_BLACK, LED_YELLOW, LED_BLACK, LED_PURPLE, LED_BLACK, LED_CYAN, LED_BLACK}; //{LED_R, LED_BLACK, LED_B};
 
 //static * strobe_sequence = strobe_sequence_A;
 static volatile int LED = 0;
 
 void strobe_pattern(int pattern_num){
- 4f0:	b480      	push	{r7}
- 4f2:	b083      	sub	sp, #12
- 4f4:	af00      	add	r7, sp, #0
- 4f6:	6078      	str	r0, [r7, #4]
+ 590:	b480      	push	{r7}
+ 592:	b083      	sub	sp, #12
+ 594:	af00      	add	r7, sp, #0
+ 596:	6078      	str	r0, [r7, #4]
 	switch (pattern_num){
- 4f8:	687b      	ldr	r3, [r7, #4]
- 4fa:	2b00      	cmp	r3, #0
- 4fc:	d002      	beq.n	504 <strobe_pattern+0x14>
- 4fe:	2b01      	cmp	r3, #1
- 500:	d029      	beq.n	556 <strobe_pattern+0x66>
- 502:	e051      	b.n	5a8 <strobe_pattern+0xb8>
+ 598:	687b      	ldr	r3, [r7, #4]
+ 59a:	2b00      	cmp	r3, #0
+ 59c:	d002      	beq.n	5a4 <strobe_pattern+0x14>
+ 59e:	2b01      	cmp	r3, #1
+ 5a0:	d029      	beq.n	5f6 <strobe_pattern+0x66>
+ 5a2:	e051      	b.n	648 <strobe_pattern+0xb8>
 		case 0:
 			if(LED == STROBE_SEQ_LEN){LED = 0;}
- 504:	f240 1370 	movw	r3, #368	; 0x170
- 508:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 50c:	681b      	ldr	r3, [r3, #0]
- 50e:	2b0e      	cmp	r3, #14
- 510:	d105      	bne.n	51e <strobe_pattern+0x2e>
- 512:	f240 1370 	movw	r3, #368	; 0x170
- 516:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 51a:	2200      	movs	r2, #0
- 51c:	601a      	str	r2, [r3, #0]
+ 5a4:	f240 1370 	movw	r3, #368	; 0x170
+ 5a8:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 5ac:	681b      	ldr	r3, [r3, #0]
+ 5ae:	2b0e      	cmp	r3, #14
+ 5b0:	d105      	bne.n	5be <strobe_pattern+0x2e>
+ 5b2:	f240 1370 	movw	r3, #368	; 0x170
+ 5b6:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 5ba:	2200      	movs	r2, #0
+ 5bc:	601a      	str	r2, [r3, #0]
 			STROBE(strobe_sequence_IDLE[LED]);
- 51e:	f245 33fc 	movw	r3, #21500	; 0x53fc
- 522:	f2c4 0302 	movt	r3, #16386	; 0x4002
- 526:	f240 1270 	movw	r2, #368	; 0x170
- 52a:	f2c2 0200 	movt	r2, #8192	; 0x2000
- 52e:	6811      	ldr	r1, [r2, #0]
- 530:	f240 0200 	movw	r2, #0
- 534:	f2c2 0200 	movt	r2, #8192	; 0x2000
- 538:	f852 2021 	ldr.w	r2, [r2, r1, lsl #2]
- 53c:	601a      	str	r2, [r3, #0]
+ 5be:	f245 33fc 	movw	r3, #21500	; 0x53fc
+ 5c2:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 5c6:	f240 1270 	movw	r2, #368	; 0x170
+ 5ca:	f2c2 0200 	movt	r2, #8192	; 0x2000
+ 5ce:	6811      	ldr	r1, [r2, #0]
+ 5d0:	f240 0200 	movw	r2, #0
+ 5d4:	f2c2 0200 	movt	r2, #8192	; 0x2000
+ 5d8:	f852 2021 	ldr.w	r2, [r2, r1, lsl #2]
+ 5dc:	601a      	str	r2, [r3, #0]
 			LED++;
- 53e:	f240 1370 	movw	r3, #368	; 0x170
- 542:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 546:	681b      	ldr	r3, [r3, #0]
- 548:	1c5a      	adds	r2, r3, #1
- 54a:	f240 1370 	movw	r3, #368	; 0x170
- 54e:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 552:	601a      	str	r2, [r3, #0]
+ 5de:	f240 1370 	movw	r3, #368	; 0x170
+ 5e2:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 5e6:	681b      	ldr	r3, [r3, #0]
+ 5e8:	1c5a      	adds	r2, r3, #1
+ 5ea:	f240 1370 	movw	r3, #368	; 0x170
+ 5ee:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 5f2:	601a      	str	r2, [r3, #0]
 			break;
- 554:	e028      	b.n	5a8 <strobe_pattern+0xb8>
+ 5f4:	e028      	b.n	648 <strobe_pattern+0xb8>
 		case 1:
 			if(LED == STROBE_SEQ_LEN){LED = 0;}
- 556:	f240 1370 	movw	r3, #368	; 0x170
- 55a:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 55e:	681b      	ldr	r3, [r3, #0]
- 560:	2b0e      	cmp	r3, #14
- 562:	d105      	bne.n	570 <strobe_pattern+0x80>
- 564:	f240 1370 	movw	r3, #368	; 0x170
- 568:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 56c:	2200      	movs	r2, #0
- 56e:	601a      	str	r2, [r3, #0]
+ 5f6:	f240 1370 	movw	r3, #368	; 0x170
+ 5fa:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 5fe:	681b      	ldr	r3, [r3, #0]
+ 600:	2b0e      	cmp	r3, #14
+ 602:	d105      	bne.n	610 <strobe_pattern+0x80>
+ 604:	f240 1370 	movw	r3, #368	; 0x170
+ 608:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 60c:	2200      	movs	r2, #0
+ 60e:	601a      	str	r2, [r3, #0]
 			STROBE(strobe_sequence_SUPERSYS[LED]);
- 570:	f245 33fc 	movw	r3, #21500	; 0x53fc
- 574:	f2c4 0302 	movt	r3, #16386	; 0x4002
- 578:	f240 1270 	movw	r2, #368	; 0x170
- 57c:	f2c2 0200 	movt	r2, #8192	; 0x2000
- 580:	6811      	ldr	r1, [r2, #0]
- 582:	f240 0238 	movw	r2, #56	; 0x38
- 586:	f2c2 0200 	movt	r2, #8192	; 0x2000
- 58a:	f852 2021 	ldr.w	r2, [r2, r1, lsl #2]
- 58e:	601a      	str	r2, [r3, #0]
+ 610:	f245 33fc 	movw	r3, #21500	; 0x53fc
+ 614:	f2c4 0302 	movt	r3, #16386	; 0x4002
+ 618:	f240 1270 	movw	r2, #368	; 0x170
+ 61c:	f2c2 0200 	movt	r2, #8192	; 0x2000
+ 620:	6811      	ldr	r1, [r2, #0]
+ 622:	f240 0238 	movw	r2, #56	; 0x38
+ 626:	f2c2 0200 	movt	r2, #8192	; 0x2000
+ 62a:	f852 2021 	ldr.w	r2, [r2, r1, lsl #2]
+ 62e:	601a      	str	r2, [r3, #0]
 			LED++;
- 590:	f240 1370 	movw	r3, #368	; 0x170
- 594:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 598:	681b      	ldr	r3, [r3, #0]
- 59a:	1c5a      	adds	r2, r3, #1
- 59c:	f240 1370 	movw	r3, #368	; 0x170
- 5a0:	f2c2 0300 	movt	r3, #8192	; 0x2000
- 5a4:	601a      	str	r2, [r3, #0]
+ 630:	f240 1370 	movw	r3, #368	; 0x170
+ 634:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 638:	681b      	ldr	r3, [r3, #0]
+ 63a:	1c5a      	adds	r2, r3, #1
+ 63c:	f240 1370 	movw	r3, #368	; 0x170
+ 640:	f2c2 0300 	movt	r3, #8192	; 0x2000
+ 644:	601a      	str	r2, [r3, #0]
 			break;
- 5a6:	bf00      	nop
+ 646:	bf00      	nop
 	}
- 5a8:	370c      	adds	r7, #12
- 5aa:	46bd      	mov	sp, r7
- 5ac:	f85d 7b04 	ldr.w	r7, [sp], #4
- 5b0:	4770      	bx	lr
- 5b2:	bf00      	nop
+ 648:	370c      	adds	r7, #12
+ 64a:	46bd      	mov	sp, r7
+ 64c:	f85d 7b04 	ldr.w	r7, [sp], #4
+ 650:	4770      	bx	lr
+ 652:	bf00      	nop

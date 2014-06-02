@@ -16,7 +16,31 @@ typedef struct dc_motor{
   }motor_constants;
 }dc_motor;
 
-void dc_motor_init(int port){
-  DC_MOTOR_INIT(port);
+void dc_motor_init(){
+  DC_MOTORA_THROTTLE_INIT;
+  //DC_MOTORA_CLKWISE_INIT;
+  //DC_MOTORA_ACLKWISE_INIT;
+  
+  //DC_MOTORB_THROTTLE_INIT;
+  //DC_MOTORB_SIG_CLKWISE_INIT;
+  //DC_MOTORB_SIGACLKWISE_INIT;
+  
+  
 }
-void dc_motor_ctl(int direction, int throtlle, int enable){;}
+
+/*
+ * 	Param:
+ * 	direction : 	
+ * 		off 		- 	0x1
+ * 		clockwise 	-	0x2
+ *		anticlockwise	-	0x3
+ *	throttle :
+ * 		[0 - 100] %
+ * 
+ */
+
+void dc_motor_ctrl(int direction, int throttle, int enable){
+	int throttleA = throttle;
+	int throttleB = throttle;
+	DC_MOTORA_THROTTLE((throttleA),(throttleB));
+;}
