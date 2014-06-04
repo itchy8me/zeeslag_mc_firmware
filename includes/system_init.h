@@ -3,7 +3,10 @@
  */
 
 //#include "inc/hw_gpio.h"
-#include "inc/lm4f120h5qr.h"
+#include <inc/lm4f120h5qr.h>
+#include <inc/hw_types.h>
+#include <inc/hw_ints.h>
+#include <driverlib/interrupt.h>
 
 #define CLOCK_CFG (SYSCTL_RCC_R = 0x02400540)	// Set clock divider
 
@@ -20,3 +23,5 @@
 #define LED_YELLOW (LED_R | LED_G & ~LED_B)
 #define LED_WHITE (LED_R | LED_B | LED_G)
 #define LED_BLACK ~(LED_WHITE)
+
+void system_init(void);

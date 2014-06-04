@@ -4,5 +4,7 @@
 
 #include "../includes/system_init.h"
 
-void system_init(void){;}
+void system_init(void){
+  IntMasterEnable();
+}
 
